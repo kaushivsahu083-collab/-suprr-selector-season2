@@ -1,0 +1,12 @@
+{
+  "analysis_deliveries": 193988,
+  "analysis_matches": 837,
+  "IPL_matches": 367,
+  "T20I_matches": 470,
+  "date_min": "2022-01-22",
+  "date_max": "2026-11-01",
+  "eligible_batters": 255,
+  "eligible_bowlers": 236,
+  "bat_pressure_pct": 43.71,
+  "bowl_pressure_pct": 51.69
+}
